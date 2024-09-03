@@ -1,5 +1,3 @@
-![banner Git](https://github.com/user-attachments/assets/5ba0a688-47f3-4499-8446-542f8c3eb2c0)
-
 
 ### Olá! Eu sou o Luan Freire 🤖
 
