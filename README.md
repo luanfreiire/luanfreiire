@@ -7,7 +7,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0SXcHEYT6AZ3ZwaMja1PVA?si=ZTW1dZHFSDamEQRFXFyH6g&pi=BduwZuozSsabM )
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/channels/843323259764211733)
 
-![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=luanfreire&show_icons=true&theme=tokyonight)
+![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=luanfreiire&show_icons=true&theme=tokyonight)
 
 ### Tecnologias 👨🏽‍💻 :
 
